@@ -37,3 +37,5 @@ gem 'jekyll-include-cache'
 
 # https://github.com/jekyll/jekyll-sass-converter/issues/145#issuecomment-1363069829
 gem 'jekyll-sass-converter', '~> 2.2'
+
+# gem 'jekyll-toc'

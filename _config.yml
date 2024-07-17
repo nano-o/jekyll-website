@@ -35,9 +35,14 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-include-cache # needed by minimal-mistakes-jekyll
+  # - jekyll-toc
 # not needed (or even compatible?) with the minimal-mistakes-jekyll theme:
   # - jekyll-seo-tag
   # - jekyll-og-image
+  #
+kramdown:
+  syntax_highlighter_opts:
+    disable : true
 
 author:
   name: "Giuliano Losa"
@@ -45,6 +50,9 @@ author:
   avatar: "/assets/images/painting-cropped.jpg"
   location: Washington State, USA
   links:
+    - label: giuliano@losa.fr
+      icon: "fa-regular fa-envelope"
+      url: mailto:giuliano@losa.fr
     - label: "giuliano_losa"
       icon: "fab fa-fw fa-x-twitter"
       url: "https://x.com/giuliano_losa"

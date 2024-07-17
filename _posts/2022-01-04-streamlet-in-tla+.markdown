@@ -1,7 +1,10 @@
 ---
 layout: single
+toc: true
+toc_sticky: true
 classes: wide
 title: "Streamlet in TLA+"
+permalink: blog/streamlet-in-tla+
 author_profile: true
 date: "2022-01-04"
 categories:
@@ -10,6 +13,7 @@ categories:
 - "consensus"
 - "tla+"
 - "PlusCal"
+show_date: true
 ---
 
 In this blog post, we will see how to specify the Streamlet algorithm in PlusCal/TLA+ with a focus on writing simple specifications that are amenable to model-checking of both safety and liveness properties with TLC.
@@ -83,7 +87,7 @@ We can see that the block with epoch 2 is notarized, thus finalizing the block w
 Blocks with epoch number 3 and 4 in the finalized chain are final because of the notarized block with epoch 5.
 
 
-![Possible blocktree produce by the Streamlet algorithm](../img/blocktree.svg)
+![Possible blocktree produce by the Streamlet algorithm](/assets/images/blocktree.svg)
 
 ## Safety guarantee
 
@@ -122,7 +126,7 @@ No information is lost in the process: in both cases, a block determines a uniqu
 
 For example, this is a block in TLA+ notation:
 
-```{.wide}
+```tla
 << <<1, tx1>>, <<3, tx3>>, <<4, tx4>> >>
 ```
 
@@ -135,7 +139,7 @@ Finally, the genesis block is the empty sequence `<<>>`.
 We now define the epoch of a block `b` as `0` if `b` is the genesis block and otherwise as the epoch found in the last tuple in `b`.
 In TLA+, this translates to:
 
-```{.wide}
+```tla
   Epoch(b) ==
       IF b = Genesis
       THEN 0
@@ -145,7 +149,7 @@ In TLA+, this translates to:
 Moreover, the parent of a block `b` is the genesis block if `b` has length 1, and otherwise it's the block obtained by removing the last element of `b`.
 In TLA+:
 
-```{.wide}
+```tla
   Parent(b) == IF Len(b) = 1 THEN Genesis ELSE SubSeq(b, 1, Len(b)-1)
 ```
 
@@ -155,8 +159,7 @@ We start with a specification that makes use of non-determinism in order to esch
 The specification, appearing below and in [Streamlet.tla](https://github.com/nano-o/streamlet/blob/main/Streamlet.tla), is very short.
 With generous formatting, it consists of a mere 44 lines of PlusCal.
 
-<figure class="wide">
-```
+```tla
 CONSTANTS
         P \* The set of processes
     ,   Tx \* Transtaction sets (the payload in a block)
@@ -209,8 +212,6 @@ CONSTANTS
 43      }
 44  }
 ```
-<figcaption>Simple specification of Streamlet in PlusCal/TLA+</figcaption>
-</figure>
 
 Let me now describe the specification informally.
 
@@ -302,7 +303,7 @@ This is reflected as follows in the PlusCal/TLA+ specification:
 
 Given the above, we now state the liveness property as:
 
-```{.wide}
+```tla
 Liveness == (epoch = GSE+4) => \E b \in Blocks : Final(b) /\ Epoch(b) >= GSE-1
 ```
 
@@ -317,8 +318,7 @@ Thus, any final block with an epoch greater or equal to `GSE-1` was not final wh
 Omitting definitions that are the same as before, here is the sequentialized specification of Streamlet.
 You can also find it in [SequentializedStreamlet.tla](https://github.com/nano-o/streamlet/blob/main/SequentializedStreamlet.tla)
 
-<figure class="wide">
-```
+```tla
 1   --algorithm Streamlet {
 2       variables
 3           height = [p \in P |-> 0], \* height of the longest notarized p voted to extend
@@ -367,8 +367,6 @@ You can also find it in [SequentializedStreamlet.tla](https://github.com/nano-o/
 46      }
 47  }
 ```
-<figcaption>Sequentialized Streamlet specification with liveness</figcaption>
-</figure>
 
 ### Model-checking results
 
