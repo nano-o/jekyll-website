@@ -14,7 +14,7 @@ For a full list, see my profile [on DBLP](https://dblp.uni-trier.de/pid/04/11066
 
 * [Brief Announcement: Understanding Read-Write Wait-Free Coverings in the Fully-Anonymous Shared-Memory Model](https://dl.acm.org/doi/10.1145/3662158.3662786), PODC 2024 ([arXiv version](https://arxiv.org/pdf/2405.03573))
 * [Asynchrony-Resilient Sleepy Total-Order Broadcast Protocols](https://dl.acm.org/doi/10.1145/3662158.3662779), PODC 2024
-* [TetraBFT: Reducing Latency of Unauthenticated, Responsive BFT Consensus](https://dl.acm.org/doi/abs/10.1145/3662158.3662783), PODC 2024
+* [TetraBFT: Reducing Latency of Unauthenticated, Responsive BFT Consensus](https://dl.acm.org/doi/abs/10.1145/3662158.3662783), PODC 2024, and accompanying [TLA+ specification](https://github.com/nano-o/tetrabft-tla).
 * [Time is not a Healer, but it Sure Makes Hindsight 20:20](https://arxiv.org/abs/2305.02295), SSS 2023
 * [Brief Announcement: Byzantine Consensus Under Dynamic Participation with a Well-Behaved Majority](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.41), DISC 2023 ([related arXiv paper](https://arxiv.org/abs/2301.04817) and [TLA+ and Isabelle/HOL specifications and proofs](https://github.com/nano-o/dynamic-participation-supplemental))
 
