@@ -10,6 +10,8 @@ Hello, my name is Giuliano Losa, and I am interested in the rigorous design, ana
 
 I work at the Stellar Development Foundation, where, with the help of our CTO Nicolas Barry, I started [SDF Research](https://research.stellar.org).
 
+Before that, in reverse chronological order, I worked at [Galois](https://galois.com/), at UCLA (as a postdoc), at Virginia Tech (as a postdoc and briefly as a research assistant professor), at ELCA, Switzerland, as a software engineer, and I obtained a PhD in computer science from EPFL, Switzerland.
+
 # News
 
 Together with [Swen Jacobs](https://cispa.de/en/people/swen.jacobs/), I am co-organizing the [Workshop on Formal Reasoning in Distributed Algorithms](https://frida-2024.github.io) (FRIDA), which will take place in Montreal on July 23rd.

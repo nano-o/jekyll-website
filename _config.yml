@@ -29,6 +29,7 @@ twitter_username: "giuliano_losa"
 github_username:  "nano-o"
 name: "Giuliano Losa"
 locale: "en-US"
+production: true
 
 # Build settings
 theme: minimal-mistakes-jekyll
