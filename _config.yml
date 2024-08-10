@@ -48,7 +48,7 @@ kramdown:
 author:
   name: "Giuliano Losa"
   bio: "Researcher in distributed computing and formal methods"
-  avatar: "/assets/images/painting-cropped.jpg"
+  avatar: "/images/painting-cropped.jpg"
   location: Washington State, USA
   links:
     - label: giuliano@losa.fr
@@ -71,7 +71,7 @@ author:
       url: "https://research.stellar.org"
 # see https://github.com/mmistakes/minimal-mistakes/issues/324 for other icons
 
-og_image: "/assets/images/painting-cropped.jpg"
+og_image: "/images/painting-cropped.jpg"
 
 footer:
   test

@@ -87,7 +87,7 @@ We can see that the block with epoch 2 is notarized, thus finalizing the block w
 Blocks with epoch number 3 and 4 in the finalized chain are final because of the notarized block with epoch 5.
 
 
-![Possible blocktree produce by the Streamlet algorithm](/assets/images/blocktree.svg)
+![Possible blocktree produce by the Streamlet algorithm](/images/blocktree.svg)
 
 ## Safety guarantee
 
