@@ -14,3 +14,5 @@ classes: wide
 * Monday, October 2nd, 2023 at [SSS 2023](https://www.stabilizationsafetysecurity2023.com/), Jersey City, NY, USA: Time Is Not a Healer, but It Sure Makes Hindsight 20:20. [Slides](/documents/SSS 2023 - final.pdf) and [paper](https://arxiv.org/abs/2305.02295).
 * Friday, August 31st, 2023 at the workshop on dynamically available consensus (part of SBC 2023): "Consensus under dynamic participation with a minority of failures". [Slides](/documents/dyn-consensus.pdf)
 * April 25, 2023, Stanford Blockchain Seminar: "Revisiting the Federated Byzantine Agreement Model". [Recording](https://www.youtube.com/watch?v=eIW0ExE3t-U&list=PLhA8D_GhTLc5MR5aecbSfL6wvqGS8IOqK&index=16) and [slides](/documents/SBR-03-2023.pdf)
+* March 15, 2023, Dagstuhl seminar "Unifying Formal Methods for Trustworthy Distributed Systems": A Simple Proof of the FLP impossibility results
+* December 7th, 2022, Dagstuhl seminar "Formal Methods and Distributed Computing: Stronger Together": Formal Verification of a Classic Distributed Algorithm Using Inductive Invariants. [Slides](/documents/dagstuhl-22492.pdf) and [proofs](https://github.com/nano-o/Distributed-termination-detection)
