@@ -14,6 +14,8 @@ Before that, in reverse chronological order, I worked at [Galois](https://galois
 
 # News
 
+In September, I participated in the Dagstuhl seminar "Next-Generation Secure Distributed Computing" and I gave a talk on verifying liveness of consensus protocols ([Slides](/documents/tla-liveness.pdf) and [specifications](https://github.com/nano-o/tetrabft-tla)) at the [TLA+ Community Event](https://conf.tlapl.us/2024-fm/) in Milan, Italy.
+
 Together with [Swen Jacobs](https://cispa.de/en/people/swen.jacobs/), I am co-organizing the [Workshop on Formal Reasoning in Distributed Algorithms](https://frida-2024.github.io) (FRIDA), which will take place in Montreal on July 23rd.
 
 I am a member of the program committee of the [2024 TLA+ Community Event](https://conf.tlapl.us/2024-fm/), which will take place in Milan on September 10th along with [FM 2024](https://www.fm24.polimi.it/).
