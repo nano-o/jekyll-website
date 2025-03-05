@@ -14,6 +14,9 @@ Before that, in reverse chronological order, I worked at [Galois](https://galois
 
 # News
 
+New paper: Giulian Losa (Stellar Development Foundation), Yifan Mao (Ohio State University), Shaileshh Bojja Venkatakrishnan (Ohio State University), and Yunqi Zhang (Ohio State University). Constellation: Peer-to-Peer Overlays for Federated Byzantine Agreement Systems. [FC 2025](https://fc25.ifca.ai/). [Preprint](https://fc25.ifca.ai/preproceedings/280.pdf).
+
+
 In September, I participated in the Dagstuhl seminar "Next-Generation Secure Distributed Computing" and I gave a talk on verifying liveness of consensus protocols ([Slides](/documents/tla-liveness.pdf) and [specifications](https://github.com/nano-o/tetrabft-tla)) at the [TLA+ Community Event](https://conf.tlapl.us/2024-fm/) in Milan, Italy.
 
 Together with [Swen Jacobs](https://cispa.de/en/people/swen.jacobs/), I am co-organizing the [Workshop on Formal Reasoning in Distributed Algorithms](https://frida-2024.github.io) (FRIDA), which will take place in Montreal on July 23rd.
