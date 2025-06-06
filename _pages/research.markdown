@@ -12,6 +12,7 @@ For a full list, see my profile [on DBLP](https://dblp.uni-trier.de/pid/04/11066
 
 ### Recent Publications
 
+* Giulian Losa (Stellar Development Foundation), Yifan Mao (Ohio State University), Shaileshh Bojja Venkatakrishnan (Ohio State University), and Yunqi Zhang (Ohio State University). Constellation: Peer-to-Peer Overlays for Federated Byzantine Agreement Systems. [FC 2025](https://fc25.ifca.ai/). [Preprint](https://fc25.ifca.ai/preproceedings/280.pdf).
 * [Brief Announcement: Understanding Read-Write Wait-Free Coverings in the Fully-Anonymous Shared-Memory Model](https://dl.acm.org/doi/10.1145/3662158.3662786), PODC 2024 ([arXiv version](https://arxiv.org/pdf/2405.03573))
 * [Asynchrony-Resilient Sleepy Total-Order Broadcast Protocols](https://dl.acm.org/doi/10.1145/3662158.3662779), PODC 2024
 * [TetraBFT: Reducing Latency of Unauthenticated, Responsive BFT Consensus](https://dl.acm.org/doi/abs/10.1145/3662158.3662783), PODC 2024, and accompanying [TLA+ specification](https://github.com/nano-o/tetrabft-tla).
@@ -21,11 +22,10 @@ For a full list, see my profile [on DBLP](https://dblp.uni-trier.de/pid/04/11066
 ## Workshops
 
 I sometimes (co-)organize workshops:
-* Together with [Swen Jacobs](https://cispa.de/en/people/swen.jacobs/), I am co-organizing the [Workshop on Formal Reasoning in Distributed Algorithms](https://frida-2024.github.io) (FRIDA), which will take place in Montreal on July 23rd.
+* On July 23rd, 2024, I co-organizing the [Workshop on Formal Reasoning in Distributed Algorithms](https://frida-2024.github.io) (FRIDA) together with [Swen Jacobs](https://cispa.de/en/people/swen.jacobs/).
 * In October 2023, [Christian Cachin](https://crypto.unibe.ch/cc/) and myself organized the Workshop on [Heterogeneous Trust in Distributed Systems](https://htds-workshop.github.io/) as part of [AFT 2023](https://aftconf.github.io/aft23/index.html). The recordings are [available on Youtube](https://www.youtube.com/playlist?list=PLmr3tp_7-7GjHjTeBSdTu5P15Wde3YMf0).
 * Together with [Swen Jacobs](https://cispa.de/en/people/swen.jacobs/), I organized the [2021 Workshop on Formal Reasoning in Distributed Algorithms](https://frida-2021.github.io/). Video recordings are available on Youtube: [Monday's session](https://youtu.be/EzxiDResQUE) and [Friday's session](https://youtu.be/m8ApDWtmB14).
 * In 2020, Marijana Lazić and myself organized the [2020 Workshop on Formal Reasoning in Distributed Algorithms](https://frida2020.galois.com/) (FRIDA). You can find the videos of the talks on the [QONFEST YouTube channel](https://www.youtube.com/channel/UCK9p1Z8nIPTP4Uv5Qodb1og/videos) (search for FRIDA in video titles).
-
 
 ## Recent service activities
 
