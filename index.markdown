@@ -6,15 +6,23 @@ author_profile: true
 classes: wide
 ---
 
-Hello, my name is Giuliano Losa, and I am interested in the rigorous design, analysis, and implementation of distributed systems aided by formal methods.
+Hello, my name is Giuliano Losa. Welcome to my research homepage! I am interested in the rigorous design, analysis, and implementation of distributed systems aided by formal methods.
 
 I work at the Stellar Development Foundation, where, with the help of our CTO Nicolas Barry, I started [SDF Research](https://research.stellar.org).
 
-Before that, in reverse chronological order, I worked at [Galois](https://galois.com/), at UCLA (as a postdoc), at Virginia Tech (as a postdoc and briefly as a research assistant professor), at ELCA, Switzerland, as a software engineer, and I obtained a PhD in computer science from EPFL, Switzerland.
+Before that, I worked at [Galois](https://galois.com/), at UCLA (as a postdoc), at Virginia Tech (as a postdoc and briefly as a research assistant professor), at ELCA, Switzerland, as a software engineer, and I obtained a PhD in computer science from EPFL, Switzerland.
 
 # News
 
-New paper: Giulian Losa (Stellar Development Foundation), Yifan Mao (Ohio State University), Shaileshh Bojja Venkatakrishnan (Ohio State University), and Yunqi Zhang (Ohio State University). Constellation: Peer-to-Peer Overlays for Federated Byzantine Agreement Systems. [FC 2025](https://fc25.ifca.ai/). [Preprint](https://fc25.ifca.ai/preproceedings/280.pdf).
+Together with [Setphan Merz](https://members.loria.fr/Stephan.Merz/), I am co-organizing the [12th Workshop on Formal Reasoning in Distributed Algorithms](https://frida-2025.github.io/). The workshop will take place in Berlin, Germany, on October 27th, 2025, together with [DISC 2025](https://www.disc-conference.org/wp/disc2025/). If you would like to give a talk, send us an abstract!
+
+New paper draft: Nibesh Shrestha, Qianyu Yu, Aniket Kate, Giuliano Losa, Kartik Nayak, Xuechao Wang. ["Optimistic, Signature-Free Reliable Broadcast and Its Applications"](https://arxiv.org/abs/2505.02761)
+
+Paper accepted at [FMCAD 2025](https://fmcad.org/FMCAD25/): Joseph Tafese, Siddharth Priya, Giuliano Losa, Arie Gurfinkel and Graydon Hoare. "A Tale of Two Case Studies: A Unified Exploration of Rust Verification with SeaBMC"
+
+Check out our PODC brief announcement about [Stranger-Free Tasks](https://dl.acm.org/doi/10.1145/3732772.3733545)
+
+Giulian Losa (Stellar Development Foundation), Yifan Mao (Ohio State University), Shaileshh Bojja Venkatakrishnan (Ohio State University), and Yunqi Zhang (Ohio State University). Constellation: Peer-to-Peer Overlays for Federated Byzantine Agreement Systems. [FC 2025](https://fc25.ifca.ai/). [Preprint](https://fc25.ifca.ai/preproceedings/280.pdf).
 
 
 In September, I participated in the Dagstuhl seminar "Next-Generation Secure Distributed Computing" and I gave a talk on verifying liveness of consensus protocols ([Slides](/documents/tla-liveness.pdf) and [specifications](https://github.com/nano-o/tetrabft-tla)) at the [TLA+ Community Event](https://conf.tlapl.us/2024-fm/) in Milan, Italy.
