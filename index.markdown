@@ -14,9 +14,9 @@ Before that, I worked at [Galois](https://galois.com/), at UCLA (as a postdoc), 
 
 # News
 
-Together with [Setphan Merz](https://members.loria.fr/Stephan.Merz/), I am co-organizing the [12th Workshop on Formal Reasoning in Distributed Algorithms](https://frida-2025.github.io/). The workshop will take place in Berlin, Germany, on October 27th, 2025, together with [DISC 2025](https://www.disc-conference.org/wp/disc2025/). If you would like to give a talk, send us an abstract!
+Paper accepted at [CCS 2025](https://www.sigsac.org/ccs/CCS2025/): Nibesh Shrestha, Qianyu Yu, Aniket Kate, Giuliano Losa, Kartik Nayak, Xuechao Wang. ["Optimistic, Signature-Free Reliable Broadcast and Its Applications"](https://arxiv.org/abs/2505.02761)
 
-New paper draft: Nibesh Shrestha, Qianyu Yu, Aniket Kate, Giuliano Losa, Kartik Nayak, Xuechao Wang. ["Optimistic, Signature-Free Reliable Broadcast and Its Applications"](https://arxiv.org/abs/2505.02761)
+Together with [Setphan Merz](https://members.loria.fr/Stephan.Merz/), I am co-organizing the [12th Workshop on Formal Reasoning in Distributed Algorithms](https://frida-2025.github.io/). The workshop will take place in Berlin, Germany, on October 27th, 2025, together with [DISC 2025](https://www.disc-conference.org/wp/disc2025/). If you would like to give a talk, send us an abstract!
 
 Paper accepted at [FMCAD 2025](https://fmcad.org/FMCAD25/): Joseph Tafese, Siddharth Priya, Giuliano Losa, Arie Gurfinkel and Graydon Hoare. "A Tale of Two Case Studies: A Unified Exploration of Rust Verification with SeaBMC"
 
