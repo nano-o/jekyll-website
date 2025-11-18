@@ -14,6 +14,10 @@ Before that, I worked at [Galois](https://galois.com/), at UCLA (as a postdoc), 
 
 # News
 
+Paper accepted at [OPODIS 2050](https://conferences.info.uaic.ro/opodis2025/): 
+Eli Gafni, Giuliano Losa, Michel Raynal, Gadi Taubenfeld.
+"Solving Tasks with Fewer Registers than Processes"
+
 Paper accepted at [CCS 2025](https://www.sigsac.org/ccs/CCS2025/): Nibesh Shrestha, Qianyu Yu, Aniket Kate, Giuliano Losa, Kartik Nayak, Xuechao Wang. ["Optimistic, Signature-Free Reliable Broadcast and Its Applications"](https://arxiv.org/abs/2505.02761)
 
 Together with [Setphan Merz](https://members.loria.fr/Stephan.Merz/), I am co-organizing the [12th Workshop on Formal Reasoning in Distributed Algorithms](https://frida-2025.github.io/). The workshop will take place in Berlin, Germany, on October 27th, 2025, together with [DISC 2025](https://www.disc-conference.org/wp/disc2025/). If you would like to give a talk, send us an abstract!
