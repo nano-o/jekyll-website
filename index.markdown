@@ -14,6 +14,9 @@ Before that, I worked at [Galois](https://galois.com/), at UCLA (as a postdoc), 
 
 # News
 
+Paper accepted at [IEEE Symposium on Security and Privacy (S&P 2026)](https://sp2026.ieee-security.org/):
+*Fast Deterministically Safe Proof-of-Work Consensus*, with Ali Farahbakhsh (Cornell University),  Giuliano Losa (Stellar Foundation), Youer Pu (Cornell University), and Lorenzo Alvisi (Cornell University). [Preprint](./documents/sieve-preprint.pdf)
+
 Paper accepted at [OPODIS 2050](https://conferences.info.uaic.ro/opodis2025/): 
 Eli Gafni, Giuliano Losa, Michel Raynal, Gadi Taubenfeld.
 "Solving Tasks with Fewer Registers than Processes"
