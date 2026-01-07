@@ -17,11 +17,11 @@ Before that, I worked at [Galois](https://galois.com/), at UCLA (as a postdoc), 
 I am a member of the program committee of [PLDI 2026](https://pldi26.sigplan.org/).
 
 Paper accepted at [IEEE Symposium on Security and Privacy (S&P 2026)](https://sp2026.ieee-security.org/):
-*Fast Deterministically Safe Proof-of-Work Consensus*, with Ali Farahbakhsh (Cornell University),  Giuliano Losa (Stellar Foundation), Youer Pu (Cornell University), and Lorenzo Alvisi (Cornell University). [Preprint](./documents/sieve-preprint.pdf)
+*[Fast Deterministically Safe Proof-of-Work Consensus](https://arxiv.org/abs/2512.19968)*, with Ali Farahbakhsh (Cornell University),  Giuliano Losa (Stellar Foundation), Youer Pu (Cornell University), and Lorenzo Alvisi (Cornell University).
 
-Paper accepted at [OPODIS 2050](https://conferences.info.uaic.ro/opodis2025/): 
+Paper accepted at [OPODIS 2025](https://conferences.info.uaic.ro/opodis2025/): 
 Eli Gafni, Giuliano Losa, Michel Raynal, Gadi Taubenfeld.
-"Solving Tasks with Fewer Registers than Processes"
+"[Solving Tasks with Fewer Registers than Processes](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.OPODIS.2025.21)"
 
 Paper accepted at [CCS 2025](https://www.sigsac.org/ccs/CCS2025/): Nibesh Shrestha, Qianyu Yu, Aniket Kate, Giuliano Losa, Kartik Nayak, Xuechao Wang. ["Optimistic, Signature-Free Reliable Broadcast and Its Applications"](https://arxiv.org/abs/2505.02761)
 
