@@ -14,6 +14,10 @@ Before that, I worked at [Galois](https://galois.com/), at UCLA (as a postdoc), 
 
 # News
 
+I will be giving a lecture on Federated Byzantine Agreement at the [SPTDC School on the Practice and Theory of Distributed Computing](https://sptdc2026.ics.forth.gr/) on Monday April 7th, 2026, in Herklion, Crete.
+
+Paper accepted at [CAV 2026](https://conferences.i-cav.org/2026/): "Show Me The Money: An Exercise in Proof-Driven Software Understanding" (category Industrial Experience Reports & Case Studies), with J. Tafese, K. Nukala, H. Saidi, N. Shankar, A. Gurfinkel, G. Losa.
+
 I am a member of the program committee of [PLDI 2026](https://pldi26.sigplan.org/).
 
 Paper accepted at [IEEE Symposium on Security and Privacy (S&P 2026)](https://sp2026.ieee-security.org/):
