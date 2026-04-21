@@ -8,6 +8,11 @@ classes: wide
 
 Are specifications and proofs software?
 
+## TLA+ specifications
+
+Various TLA+ specifications are available in the [TLA+ examples repository](https://github.com/tlaplus/Examples).
+If you like consensus algorithms, two interesting ones are [Streamlet](https://github.com/nano-o/streamlet) and [DAG-based consensus](https://github.com/tlaplus/Examples/tree/master/specifications/dag-consensus).
+
 ## python-fbas
 
 A prototype tool to reason about Federated Byzantine Agreement Systems using SAT solvers.
